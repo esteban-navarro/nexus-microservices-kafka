@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost:1434;databaseName=nexus_user_db;encrypt=false;trustServerCertificate=true
+    username: sa
+    password: CHANGE_ME
